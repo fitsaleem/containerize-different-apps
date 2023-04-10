@@ -4,7 +4,7 @@
 
 ***first you need to  create your python app.py application***
 
-***after that creat the docker**
+**after that creat the docker**
 
 ***Here's an example Dockerfile for a Python Flask app:***
 
