@@ -1,0 +1,11 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: myfirstpod
+spec:
+  containers:
+  - name: container1
+    image: fitsaleem/hello_world_app
+    ports:
+    - containerPort: 80
+
